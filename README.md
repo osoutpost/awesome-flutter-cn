@@ -1,6 +1,6 @@
-# Flutter 中文资源大全
+# Flutter 资源大全中文版
 
-[Flutter](https://flutter.dev/) 是 google 出品的 UI 工具包，旨在使用一套代码构建精美的移动端、网页和桌面端的跨平台应用。Flutter 中文资源大全 翻译整理自[awesome-flutter](https://github.com/Solido/awesome-flutter)，在此基础上会不定期补充一些中文 Flutter 相关的资源。这个中文资源列表由微信公众号「开源前哨」维护。
+[Flutter](https://flutter.dev/) 是 google 出品的 UI 工具包，旨在使用一套代码构建精美的移动端、网页和桌面端的跨平台应用。Flutter 资源大全中文版翻译整理自[awesome-flutter](https://github.com/Solido/awesome-flutter)，在此基础上会不定期补充一些中文 Flutter 相关的资源。这个中文资源列表由微信公众号「开源前哨」维护。
 
 ## 内容
 
