@@ -191,6 +191,7 @@
 - [Calendar Carousel Widget](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - 翻页日历，[dooboolab](https://github.com/dooboolab/flutter_calendar_carousel)
 - [Table Calendar](https://github.com/aleksanderwozniak/table_calendar) - 一个基于表格的日历，可以自动调整纵向高度，[Aleksander Woźniak](https://github.com/aleksanderwozniak).
 - [Time Planner](https://github.com/Jamalianpour/time_planner) - 一个精美的跨移动端、桌面端和网页端的日期管理组件，[Mohammad Jamalianpour](https://github.com/Jamalianpour).
+- [Infinite Calendar View](https://github.com/pickywawa/infinite_calendar_view) - 可无限滚动的日历视图（日程规划、单日、多日、月视图和事件列表），支持拖放、双指缩放和多列显示，[pickywawa](https://github.com/pickywawa).
 
 
 #### 登录
